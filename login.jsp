@@ -1,1 +1,10 @@
-his is a login page for IRCTC app
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+
